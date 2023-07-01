@@ -1,0 +1,17 @@
+{
+	"name" : "Stormy Rampart",
+	"description" : "Rainy nightly Rampart look",
+	"author" : "",
+	"contact" : "",
+	"version" : "0.1",
+	"modType" : "Town",	
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"changelog" :
+    {
+		"0.1"   : [ "Initial release" ]
+	},
+    "factions" : [ "config/rampstorm/rampstorm" ]
+}

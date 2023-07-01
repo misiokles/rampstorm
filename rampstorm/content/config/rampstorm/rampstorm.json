@@ -1,0 +1,32 @@
+{
+	"core:rampart" :
+	{
+		"town" : 
+		{
+			"townBackground": "rampstorm/town-screen/background.bmp",
+			"icons" :
+			{
+				"village" : {
+					"normal" : {
+						"small" : "rampstorm/icons/hall-small.bmp",
+						"large" : "rampstorm/icons/hall-big.bmp"
+					},
+					"built" : {
+						"small" : "rampstorm/icons/hall-builded-small.bmp",
+						"large" : "rampstorm/icons/hall-builded-big.bmp"
+					}
+				},
+				"fort" : {
+					"normal" : {
+						"small" : "rampstorm/icons/fort-small.bmp",
+						"large" : "rampstorm/icons/fort-big.bmp"
+					},
+					"built" : {
+						"small" : "rampstorm/icons/fort-builded-small.bmp",
+						"large" : "rampstorm/icons/fort-builded-big.bmp"
+					}
+				}
+			}
+		}	
+	}
+}
